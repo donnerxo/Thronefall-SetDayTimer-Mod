@@ -7,11 +7,10 @@ Thunderstore:
 I highly recommend using Thunderstore to install this mod. r2modman supports Thronefall profiles and allows you to install, disable and uninstall mods quickly and easily.
 https://thunderstore.io/c/thronefall/
 
-1. Download r2modman and create a Thronefall profile
-2. Download BepInEx for Thronefall
-3. You must run the game at least once before proceeding
-4. Download and extract the ThronefallSetDayTimerMod.dll into the "Plugins" folder found in the BepInEx folder.
-5. Run the modded game from your r2modman profile and enjoy!
+1. Download r2modman and create a Thronefall profile.
+2. You must run the game at least once before proceeding.
+3. Download BepInEx and Thronefall SetDayTimer Mod.
+4. Run the modded game from your r2modman profile and enjoy!
 
 # Application
 The SetDayTimer mod was made specifically for the donner's dungeon Thronefall Tournament. It makes the game harder by giving you a limited amount of time during the day to build / upgrade your castle.

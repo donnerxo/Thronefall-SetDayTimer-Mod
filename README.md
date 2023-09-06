@@ -1,5 +1,6 @@
 # Thronefall-SetDayTimer-Mod
 This mod limits the amount of 'daytime' you have, giving you less time to build thus making the game harder.
+(https://github.com/donnerxo/Thronefall-SetDayTimer-Mod/)
 
 # Installation
 Using Thunderstore:

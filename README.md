@@ -5,8 +5,7 @@ This mod limits the amount of 'daytime' you have, giving you less time to build 
 # Installation
 Using Thunderstore:
 
-I highly recommend using Thunderstore to install this mod. r2modman supports Thronefall profiles and allows you to install, disable and uninstall mods quickly and easily.
-[Thunderstore](https://thunderstore.io/c/thronefall/)
+I highly recommend using [Thunderstore](https://thunderstore.io/c/thronefall/) to install this mod. r2modman supports Thronefall profiles and allows you to install, disable and uninstall mods quickly and easily.
 
 1. Download and open r2modman and create a Thronefall profile.
    (You may need to open the game in modded mode once at this stage if it doesn't let you do the next step)
@@ -17,14 +16,13 @@ I highly recommend using Thunderstore to install this mod. r2modman supports Thr
 
 Manual Installation:
 
-1. Install BepInEx [BepInEx](https://thunderstore.io/c/thronefall/p/BepInEx/BepInExPack_Thronefall/)
+1. Install [BepInEx](https://thunderstore.io/c/thronefall/p/BepInEx/BepInExPack_Thronefall/)
 2. Run and close the game once before proceeding.
 3. Download and extract Thronefall SetDayTime Mod anywhere but **not into game folder**.
 4. Move everything from the extracted mod folder to the the 'Plugins' folder within the 'BepInEx' folder.
 5. Run the game and enjoy!
 
-Quick Debug: If your game crashes on the third night, a quick re-install of the mod should fix it. Otherwise, please have a look in the Thronefall #game-mods channel or get in touch with donnertm on discord.
-[Thronefall Discord](https://discord.gg/gVYctptyg8)
+Quick Debug: If your game crashes on the third night, a quick re-install of the mod should fix it. Otherwise, please have a look in the [Thronefall Discord](https://discord.gg/gVYctptyg8) #game-mods channel or get in touch with donnertm.
 
 # Application
 The SetDayTimer mod was made specifically for a purpose I cannot yet reveal. It makes the game harder by giving you a limited amount of time during the day to build / upgrade your castle.

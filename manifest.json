@@ -1,0 +1,9 @@
+{
+    "name": "ThronefallSetDayTimerMod",
+    "version_number": "0.1.0",
+    "website_url": "https://github.com/donnerxo/Thronefall-SetDayTimer-Mod",
+    "description": "This mod limits the amount of 'daytime' you have, giving you less time to build thus making the game harder.",
+    "dependencies": [
+        "BepInEx-BepInExPack_Thronefall-5.4.2100"
+    ]
+}

@@ -1,12 +1,12 @@
 # Thronefall-SetDayTimer-Mod
 This mod limits the amount of 'daytime' you have, giving you less time to build thus making the game harder.
-(https://github.com/donnerxo/Thronefall-SetDayTimer-Mod/)
+[Thronefall SetDayTimer Mod](https://github.com/donnerxo/Thronefall-SetDayTimer-Mod/)
 
 # Installation
 Using Thunderstore:
 
 I highly recommend using Thunderstore to install this mod. r2modman supports Thronefall profiles and allows you to install, disable and uninstall mods quickly and easily.
-https://thunderstore.io/c/thronefall/
+[Thunderstore](https://thunderstore.io/c/thronefall/)
 
 1. Download and open r2modman and create a Thronefall profile.
    (You may need to open the game in modded mode once at this stage if it doesn't let you do the next step)
@@ -17,13 +17,14 @@ https://thunderstore.io/c/thronefall/
 
 Manual Installation:
 
-1. Install BepInEx (https://thunderstore.io/c/thronefall/p/BepInEx/BepInExPack_Thronefall/)
+1. Install BepInEx [BepInEx](https://thunderstore.io/c/thronefall/p/BepInEx/BepInExPack_Thronefall/)
 2. Run and close the game once before proceeding.
 3. Download and extract Thronefall SetDayTime Mod anywhere but **not into game folder**.
 4. Move everything from the extracted mod folder to the the 'Plugins' folder within the 'BepInEx' folder.
 5. Run the game and enjoy!
 
-Quick Debug: If your game crashes on the third night, a quick re-install of the mod should fix it. Otherwise, please get in touch with donnertm on discord.
+Quick Debug: If your game crashes on the third night, a quick re-install of the mod should fix it. Otherwise, please have a look in the Thronefall #game-mods channel or get in touch with donnertm on discord.
+[Thronefall Discord](https://discord.gg/gVYctptyg8)
 
 # Application
 The SetDayTimer mod was made specifically for a purpose I cannot yet reveal. It makes the game harder by giving you a limited amount of time during the day to build / upgrade your castle.

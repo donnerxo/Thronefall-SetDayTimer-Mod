@@ -1,5 +1,5 @@
 # Thronefall-SetDayTimer-Mod
-This mod limits the amount of 'daytime' you have and will be used for the donner's dungeon Thronefall Tournament.
+This mod limits the amount of 'daytime' you have, giving you less time to build thus making the game harder.
 
 # Installation
 Using Thunderstore:
@@ -25,8 +25,8 @@ Manual Installation:
 Quick Debug: If your game crashes on the third night, a quick re-install of the mod should fix it. Otherwise, please get in touch with donnertm on discord.
 
 # Application
-The SetDayTimer mod was made specifically for the donner's dungeon Thronefall Tournament. It makes the game harder by giving you a limited amount of time during the day to build / upgrade your castle.
+The SetDayTimer mod was made specifically for a purpose I cannot yet reveal. It makes the game harder by giving you a limited amount of time during the day to build / upgrade your castle.
 No other aspect of the game is changed by this mod.
 
 # Modification
-Currently, I have no way of letting you modify the time limit for each day, you would need to edit the code yourself. I may look into this after the tournament.
+Currently, I have no way of letting you modify the time limit for each day, you would need to edit the code yourself.
